@@ -1,1 +1,3 @@
-Reading_Assignment_17124_Minh_Hoang
+Please open "myNote_ID" !
+
+- Minh Hoang
