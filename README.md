@@ -1,4 +1,6 @@
-To open my note Directly on Github, please click on the .md file.
+Link to the google docs file:
+
+https://drive.google.com/file/d/1AUHcKypt6z237UVWxRrsqV3gI5c4qT6m/view?usp=sharing
 
 A .docx file is also available for download.
 
